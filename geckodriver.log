@@ -1,0 +1,39 @@
+1526590476166	geckodriver	INFO	Listening on 127.0.0.1:64267
+1526590477325	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1526590477600	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1526590478100	Marionette	INFO	Listening on port 64278
+1526590478300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7786: TypeError: gURLBar is null
+2018-05-17 20:54:39.796 plugin-container[67687:814397] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-17 20:54:39.812 plugin-container[67687:814397] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a87, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526590617214	geckodriver	INFO	Listening on 127.0.0.1:64348
+1526590618342	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1526590618600	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1526590619000	Marionette	INFO	Listening on port 64357
+1526590619200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7786: TypeError: gURLBar is null
+2018-05-17 20:57:00.523 plugin-container[68311:818449] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-17 20:57:00.538 plugin-container[68311:818449] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e0f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-17 20:58:53.188 firefox[67674:814218] IMKInputSession [0x7f84af4559c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x7f84a8c578d0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-17 20:58:53.807 firefox[67674:814218] IMKInputSession [0x7f84af4559c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x7f84a8c578d0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-17 20:58:54.871 firefox[67674:814218] IMKInputSession [0x7f84af4559c0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x7f84a8c578d0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-17 20:58:57.199 firefox[68304:818271] IMKInputSession [0x7f90f30d56a0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x7f90faa4c070 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1526591069497	geckodriver	INFO	Listening on 127.0.0.1:64543
+1526591070624	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1526591070900	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1526591071300	Marionette	INFO	Listening on port 64550
+1526591071500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7786: TypeError: gURLBar is null
+2018-05-17 21:04:33.102 plugin-container[70347:832621] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-17 21:04:33.120 plugin-container[70347:832621] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x894b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-17 21:08:28.679 firefox[70342:832464] IMKInputSession [0x7fe29a323800 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x7fe29a3a7020 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-17 21:08:29.155 firefox[70342:832464] IMKInputSession [0x7fe29a323800 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x7fe29a3a7020 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-17 21:08:30.166 firefox[70342:832464] IMKInputSession [0x7fe29a323800 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x7fe29a3a7020 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-17 21:08:31.051 firefox[70342:832464] IMKInputSession [0x7fe29a323800 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x7fe29a3a7020 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2018-05-17 21:08:31.913 firefox[70342:832464] IMKInputSession [0x7fe29a323800 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x7fe29a3a7020 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
