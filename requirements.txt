@@ -1,4 +1,4 @@
 telepot==12.6
 configparser==3.5.0
 tbselenium==0.3.3
-Pillow==3.3.1
+Pillow==10.0.1
